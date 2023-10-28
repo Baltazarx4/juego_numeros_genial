@@ -1,0 +1,15 @@
+p{
+    width: 500px;
+    height: 100px;
+    margin:20px;
+    padding:10px;
+    color:white;
+    background-color: red;
+    font-size: 40px;
+}
+.correct {
+    background-color: green;
+}
+.incorrect {
+    background-color: red;
+}
